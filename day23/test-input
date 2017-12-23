@@ -1,0 +1,5 @@
+set h 1
+set b 5
+mul h b
+sub b 1
+jnz b -2
